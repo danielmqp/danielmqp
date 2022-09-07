@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hola! Mi nombre es Daniel :v:
+
+:computer: Trabajo como desarollador front-end con basta experiencia en diseño UI/UX.
+
+Desde el año 2020 he estado aventurándome en este mundo del desarrollo web, con el fin de crear interfaces modernas y que sean amigables con el usuario.
+
+>“El diseño no es sólo lo que se ve y se siente. El diseño es cómo funciona” – Steve Jobs.
+
+:round_pushpin: Actualmente vivo en Santiago de Chile.
+
 
 <!--
 **danielmqp/danielmqp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
