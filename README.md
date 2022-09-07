@@ -2,7 +2,7 @@
 
 :computer: Trabajo como desarollador front-end con basta experiencia en diseño UI/UX.
 
-Desde el año 2020 he estado aventurándome en este mundo del desarrollo web, con el fin de crear interfaces modernas y que sean amigables con el usuario.
+Desde el año 2020 he estado aventurándome en este mundo del desarrollo web, con el fin de crear interfaces modernas y sobre todo que sean amigables con el usuario.
 
 >“El diseño no es sólo lo que se ve y se siente. El diseño es cómo funciona” – Steve Jobs.
 
