@@ -14,7 +14,7 @@ Desde el año 2020 he estado aventurándome en este mundo del desarrollo web, co
 Actualmente me encuentro mejorando mis habilidades en JavaScript mientras aprendo a utilizar la librería React.
 También estoy desarrollando un proyecto personal complementando mis conocimientos de Vue con NodeJS y haciendo uso de las herramientas DynamoDB y Lambda que ofrece AWS.
 
-:rocket: En un futuro no muy lejano me gustaría especializarme en arquitectura cloud apoyando al mundo con soluciones en la nube.
+:rocket: En un futuro no muy lejano me gustaría especializarme en arquitectura cloud aportando al mundo con soluciones en la nube.
 
 
 ### Lenguajes y Herramientas :books:
