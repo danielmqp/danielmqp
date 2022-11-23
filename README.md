@@ -44,6 +44,8 @@ También estoy desarrollando un proyecto personal complementando mis conocimient
 ![](https://img.shields.io/badge/Herramientas-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Herramientas-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Herramientas-Jira-informational?style=flat&logo=Jira&color=007EC6)
+![](https://img.shields.io/badge/Herramientas-Bitbucket-informational?style=flat&logo=Bitbucket&color=007EC6)
+![](https://img.shields.io/badge/Herramientas-Sourcetree-informational?style=flat&logo=Sourcetree&color=007EC6)
 
 ### También me puedes encontrar en las redes :earth_americas:
 
