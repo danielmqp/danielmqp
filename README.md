@@ -21,8 +21,10 @@ También estoy desarrollando un proyecto personal complementando mis conocimient
 
 ![](https://img.shields.io/badge/Código-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Código-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Código-VueJS-informational?style=flat&logo=Vue&color=42B883)
-![](https://img.shields.io/badge/Código-Vuex-informational?style=flat&logo=Vuex&color=35495E)
+![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=Vue&color=42B883)
+![](https://img.shields.io/badge/Librería-Vuex-informational?style=flat&logo=Vuex&color=35495E)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&color=C41E3A)
+![](https://img.shields.io/badge/Código-Typescript-informational?style=flat&logo=Typescript&color=007ACC)
 ![](https://img.shields.io/badge/Código-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Código-Python-informational?style=flat&logo=Python&color=003B57)
 
