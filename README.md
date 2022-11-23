@@ -35,6 +35,7 @@ También estoy desarrollando un proyecto personal complementando mis conocimient
 ![](https://img.shields.io/badge/Estilos-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Estilos-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
 ![](https://img.shields.io/badge/Estilos-FontAwesome-informational?style=flat&logo=FontAwesome&color=0081CB)
+![](https://img.shields.io/badge/Estilos-Ant--Design-informational?style=flat&logo=Ant-Design&color=1677FF)
 
 </br>
 
