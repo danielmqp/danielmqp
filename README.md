@@ -27,7 +27,7 @@ También estoy desarrollando un proyecto personal complementando mis conocimient
 ![](https://img.shields.io/badge/Código-Typescript-informational?style=flat&logo=Typescript&color=007ACC)
 ![](https://img.shields.io/badge/Código-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Código-Python-informational?style=flat&logo=Python&color=003B57)
-![](https://img.shields.io/badge/Código-SQL-Server-informational?style=flat&logo=SQL-Server&color=336791)
+![](https://img.shields.io/badge/Código-SSMS-informational?style=flat&logo=SSMS&color=336791)
 
 </br>
 
