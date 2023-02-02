@@ -27,7 +27,7 @@ También estoy desarrollando un proyecto personal complementando mis conocimient
 ![](https://img.shields.io/badge/Código-Typescript-informational?style=flat&logo=Typescript&color=007ACC)
 ![](https://img.shields.io/badge/Código-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Código-Python-informational?style=flat&logo=Python&color=003B57)
-
+![](https://img.shields.io/badge/Código-SQL-Server-informational?style=flat&logo=SQL-Server&color=336791)
 
 </br>
 
@@ -36,6 +36,7 @@ También estoy desarrollando un proyecto personal complementando mis conocimient
 ![](https://img.shields.io/badge/Estilos-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
 ![](https://img.shields.io/badge/Estilos-FontAwesome-informational?style=flat&logo=FontAwesome&color=0081CB)
 ![](https://img.shields.io/badge/Estilos-Ant--Design-informational?style=flat&logo=Ant-Design&color=1677FF)
+![](https://img.shields.io/badge/Estilos-Less-informational?style=flat&logo=Less&color=1d365d)
 
 </br>
 
